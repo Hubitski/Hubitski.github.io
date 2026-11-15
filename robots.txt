@@ -28,4 +28,5 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
+Sitemap: https://hubitski.github.io/sitemap.xml
 Sitemap: https://hubitski.github.io/drt2026/sitemap.xml
